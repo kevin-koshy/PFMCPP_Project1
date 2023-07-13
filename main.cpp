@@ -52,21 +52,21 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun: computer
-//  action 1: Runs Code
-computer.runCode();
-//  action 2: Cost Money
-computer.costMoney();
-//  action 3:Store Information
-computer.storeInformation();
+//  Noun: Microwave Oven
+//  action 1: Heats food
+microwaveOven.heatFood();
+//  action 2: Generates heat
+microwaveOven.generateHeat();
+//  action 3:Beeps after food is cooked
+microwaveOven.beepAfterHeatingFood();
 //  2)
-//  Noun:Keyboard
-//  action 1 Types Characters
-keyboard.typeCharacters();
-//  action 2: Control the computer
-keyboard.controlComputer();
-//  action 3:costs Money
-keyboard.costMoney();
+//  Noun:Brick Wall
+//  action 1 Marks boundaries
+brickWall.marksBoundary();
+//  action 2: Provides privacy
+brickWall.providePrivacy();
+//  action 3:Keeps animals away
+brickWall.keepsAnimalsAway();
 //  3)
 //  Noun:lightBulb    
 //  action 1:Spreads Light
@@ -74,7 +74,7 @@ lightBulb.spreadLight();
 //  action 2:Genates Heat
 lightBulb.generateHeat();
 //  action 3:Costs Money
-lightBulb.costMoney
+lightBulb.costMoney();
 //  4)
 //  Noun:Car
 //  action 1:Goes Places
